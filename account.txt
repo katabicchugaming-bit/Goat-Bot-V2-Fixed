@@ -105,7 +105,7 @@
     },
     {
         "name": "c_user",
-        "value": "100073028587818",
+        "value": "https://www.facebook.com/share/1GT1guWesb/100085261176444",
         "domain": ".facebook.com",
         "hostOnly": false,
         "path": "/",
@@ -120,7 +120,7 @@
     },
     {
         "name": "pas",
-        "value": "100073028587818%3A907dTPjGGu",
+        "value": "100085261176444%3A907dTPjGGu",
         "domain": ".facebook.com",
         "hostOnly": false,
         "path": "/",
